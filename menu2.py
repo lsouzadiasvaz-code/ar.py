@@ -1,3 +1,5 @@
+# teste commit menu 1.0
+
 from RepositoryAlunos import ReposytorySchool
 
 import os
