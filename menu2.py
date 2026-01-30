@@ -55,20 +55,6 @@ class Alunos:
             return "aluno não existia"
     
                 
-             
-                   
-            
-        
- 
-            
-        
-
-
-
-
-
-
-
 print("adicionar")
 print("listar")
 print("buscar")
@@ -127,7 +113,7 @@ while True:
             print("invalido")
         del_1= classm.del_1(nome, idade)
         print(del_1)
-        
+
         
 
         
